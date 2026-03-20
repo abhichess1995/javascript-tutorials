@@ -3,7 +3,7 @@
 const accountId = 12345;
 let accountEmail = "abhichess@google.com";
 var accountPassword = "12345";
-accountCity = "Banglore";
+accountCity = "Banglore"; // allowed but not at all recommended.
 let accountState;
 
 //accountId = 11111 //not allowed
