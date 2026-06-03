@@ -58,3 +58,6 @@ let arr2 = [...arr1] // creates a copy of arr1
 arr1.push(4) // changing arr1 does not affect arr2
 console.log(arr1); // [1, 2, 3, 4]
 console.log(arr2); // [1, 2, 3]
+
+//+++++++++++++++++++++++++++++++++++++++
+//2 types of memory :- Stack (Primitives) and Heap (Non-primitives)
