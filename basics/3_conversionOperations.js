@@ -64,7 +64,7 @@ let booleanIsLoggedIn3 = Boolean(isLoggedIn3)
 
 let someNumber = 33
 let stringNumber = String(someNumber)
-//console.log(stringNumber) // 33
+//console.log(stringNumber) // "33"
 //console.log(typeof stringNumber) // string
 
 
