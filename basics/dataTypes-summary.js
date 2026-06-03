@@ -1,4 +1,5 @@
 // Data types
+//Primitives are call by value
 //Primitives: 7 types - string, number, boolean, null, undefined, symbol, bigInt
 const name = 'John'
 const score = 50
@@ -13,6 +14,7 @@ console.log(id === anotherId); //false. Each symbol is unique, even if they have
 const bigNumber = 9007199254740991n
 
 //Non-primitives or Reference types: object, array, function
+//Non-primitives are call by reference
 
 let person = {
     name: 'John',
