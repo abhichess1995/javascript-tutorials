@@ -32,3 +32,5 @@ console.log(url.includes("abhi"))
 console.log(url.includes("hello"))
 
 console.log(gameName.split("-")) //Returns an array  
+
+//Glance all methods of String. Go to console. Create a new String using "new String()" and check the dot method in MDN
